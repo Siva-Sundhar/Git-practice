@@ -1,2 +1,2 @@
 Admin can add or remove
-change the troles
+change the trolesgit stat
